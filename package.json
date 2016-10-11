@@ -1,0 +1,24 @@
+{
+  "name": "chatty",
+  "version": "0.0.1",
+  "description": "chatApp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deltmd/chatty.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deltmd/chatty/issues"
+  },
+  "homepage": "https://github.com/deltmd/chatty#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
